@@ -7,31 +7,31 @@ Para la realización de este proyecto he seguido los siguientes requisitos:
 	Historia de usuario:
 		- Como usuario:
 		Quiero ser capaz de leer la distintas 
-    tareas que son incorporadas a la lista.
+   		tareas que son incorporadas a la lista.
 		- Como usuario:
 		Quiero tener la posibilidad de incluir 
-    tareas en la lista.
-    de distinta índole.
+   		tareas en la lista de distinta índole.	 
 		- Como usuario:
 		Quiero tener la posibilidad de modificar 
-    las tareas de la lista.
+   		las tareas de la lista.
 		- Como usuario:
 		Quiero tener la posibilidad de eliminar
-    tareas de la lista.
+   		tareas de la lista.
 		- Como usuario:
 		Quiero tener la posibilidad de marcar las
-    tareas de la lista como completadas.
+   		tareas de la lista como completadas.
 	
 	A nivel de desarrollo:
-    - Responsive desing (mobile first).
-   	- ReactJS (empleo de componentes y hooks)
+   		 - Responsive desing (mobile first).
+   		- ReactJS (empleo de componentes y hooks)
 		- HTML.
 		- CSS.
     
 	A nivel visual:
 		- Elección libre.
 
-Maqueta en FIGMA: ![To Do List MockUp](https://user-images.githubusercontent.com/119669918/217385338-a3bcdcc7-81a6-4fcd-acdb-7251017d18b4.jpg)
+Maqueta en FIGMA: 
+![To Do List MockUp](https://user-images.githubusercontent.com/119669918/217385338-a3bcdcc7-81a6-4fcd-acdb-7251017d18b4.jpg)
 
 
 
