@@ -33,7 +33,7 @@ Para la realización de este proyecto he seguido los siguientes requisitos:
 ![To Do List MockUp](https://user-images.githubusercontent.com/119669918/217385338-a3bcdcc7-81a6-4fcd-acdb-7251017d18b4.jpg)
 ![Scheme Parent to Son](https://user-images.githubusercontent.com/119669918/217385846-4146de96-7041-485b-a409-c68fe2a19215.jpg)
 
-Maqueta en FIGMA y planteamiento del sistema de componentes: 
+La maqueta inicial (observar imagen superior), que ha sido realizada mediante el uso de FIGMA, sigue un estilo basado en CyberPunk 2077 -que ha tenido una fuerte influencia en mis gustos artísticos-. La otra imagen, situada a la derecha, detalla mi planteamiento inicial del sistema de componentes que define mi proyecto.
 
 
 
