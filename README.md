@@ -22,7 +22,7 @@ Para la realización de este proyecto he seguido los siguientes requisitos:
    		tareas de la lista como completadas.
 	
 	A nivel de desarrollo:
-   		 - Responsive desing (mobile first).
+   		- Responsive desing (mobile first).
    		- ReactJS (empleo de componentes y hooks)
 		- HTML.
 		- CSS.
