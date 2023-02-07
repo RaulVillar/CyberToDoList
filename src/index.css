@@ -1,0 +1,65 @@
+@font-face {
+    font-family: "Cyberpunk";
+    src: url(/Fonts/ethnocentric\ rg.otf);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Cyberpunk";
+    background-color: rgba(38, 37, 37, 1);
+    padding: 0;
+    margin: 0;
+    color: rgba(255, 255, 255, 1);
+}
+
+.app-header {
+    font-size: 3.4371643394199785vh;
+    text-align: center;
+    margin-top: 5vh;
+    letter-spacing: 0.25vh;
+}
+
+.app-input {
+    text-align: center;
+    background-color: rgba(97, 0, 157, 1);
+    color: black;
+}
+
+form {
+    margin-top: 5vh;
+    text-align: center;
+}
+
+.tasks-label {
+    margin-right: 15vw;
+}
+
+.btn {
+    height: 2vh;
+    padding-left: 1vh;
+}
+
+li {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-top: 5vh;
+}
+
+.app-task-container {
+    /* background-color: rgba(160, 158, 158, 1); */
+    text-align: center;
+    margin-top: 5vh;
+    margin-left: 4vh;
+    margin-right: 4vh;
+    height: 50vh;
+
+}
+
+.app-task-container-title {
+    font-size: 1.7185821697099892vh;
+    color: white;
+    letter-spacing: 0.2vh;
+}
+
