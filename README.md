@@ -1,6 +1,8 @@
 # The Cyberpunk Style To Do List.
 
-*To Do List - Cyberpunk Style!* es un proyecto desarrollado mediante el empleo de ReactJS, HTML y CSS siguiendo los criterios preestablecidos por el bootcamp de FactoriaF5. Se trata de una aplicación que nos permite añadir y modificar tareas en una sencilla lista. 
+*To Do List - Cyberpunk Style!* es un proyecto individual desarrollado mediante el empleo de ReactJS, HTML y CSS siguiendo los criterios preestablecidos por el bootcamp de FactoriaF5. Se trata de una aplicación que nos permite añadir y modificar tareas en una sencilla lista. 
+
+*To Do List - Cyberpunk Style!* is an individual project developed using ReactJS, HTML and CSS, following the pre-established criteria of the FactoriaF5's bootcamp. It is an application which allows us -users- to add and modify tasks in a simple list. 
 
 Para la realización de este proyecto he seguido los siguientes requisitos:
 
