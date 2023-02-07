@@ -38,7 +38,7 @@ La maqueta inicial (observar imagen superior), que ha sido realizada mediante el
 
 
 
-Tecnologías usadas en este proyecto:
+Las tecnologías empleadas durante este proyecto han sido las siguientes:
 
 <div align="center">
   <img align="center" alt="HTML" title="HTML 5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
