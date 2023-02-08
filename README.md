@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+# The Cyberpunk Style To Do List.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*To Do List - Cyberpunk Style!* es un proyecto individual desarrollado mediante el empleo de ReactJS, HTML y CSS siguiendo los criterios preestablecidos por el bootcamp de FactoriaF5. Se trata de una aplicación que nos permite añadir y modificar tareas en una sencilla lista. 
 
-## Available Scripts
+*To Do List - Cyberpunk Style!* is an individual project developed using ReactJS, HTML and CSS, following the pre-established criteria of the FactoriaF5's bootcamp. It is an application which allows us -users- to add and modify tasks in a simple list. 
 
-In the project directory, you can run:
+Para la realización de este proyecto he seguido los siguientes requisitos:
 
-### `npm start`
+	Historia de usuario:
+		- Como usuario:
+		Quiero ser capaz de leer la distintas 
+   		tareas que son incorporadas a la lista.
+		- Como usuario:
+		Quiero tener la posibilidad de incluir 
+   		tareas en la lista de distinta índole.	 
+		- Como usuario:
+		Quiero tener la posibilidad de modificar 
+   		las tareas de la lista.
+		- Como usuario:
+		Quiero tener la posibilidad de eliminar
+   		tareas de la lista.
+		- Como usuario:
+		Quiero tener la posibilidad de marcar las
+   		tareas de la lista como completadas.
+	
+	A nivel de desarrollo:
+   		- Responsive desing (mobile first).
+   		- ReactJS (empleo de componentes y hooks)
+		- HTML.
+		- CSS.
+    
+	A nivel visual:
+		- Elección libre.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![To Do List MockUp (1)](https://user-images.githubusercontent.com/119669918/217532652-76bfb55a-a4c4-47ad-8b4e-5d334ba54e24.jpg)
+![Scheme Parent to Son (1)](https://user-images.githubusercontent.com/119669918/217511486-8be5160a-c4c8-4a1c-83bc-d67b146a238f.jpg)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+La maqueta inicial (observar imagen superior), que ha sido realizada mediante el uso de FIGMA, sigue un estilo basado en CyberPunk 2077 -que ha tenido una fuerte influencia en mis gustos artísticos-. La otra imagen, situada a la derecha, detalla mi planteamiento inicial del sistema de componentes que define mi proyecto.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Las tecnologías empleadas durante este proyecto han sido las siguientes:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div align="center">
+  <img align="center" alt="HTML" title="HTML 5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" title="CSS 3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Git" title="Git" height="50" width="80" src="https://blog.facialix.com/wp-content/uploads/2021/04/git-github-cero-facialix.jpg">
+  <img align="center" alt="Jira" title="Jira" height="50" width="100" src="https://logos-marcas.com/wp-content/uploads/2021/03/Jira-Simbolo.png">
+  <img align="center" alt="Figma" title="figma" height="50" width="80" src="https://www.protocol.com/media-library/figma-logo.png?id=29208385&width=1200&height=600&coordinates=0%2C60%2C0%2C60">
+  <img align="center" alt="ReactJS" title="react" height="50" width="80" src="https://reactjs.org/logo-og.png">
+</div>
