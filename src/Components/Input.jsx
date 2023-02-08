@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-export default function Input ({addTask}) {
+export default function Input({ addTask }) {
 
 
 
@@ -11,34 +11,21 @@ export default function Input ({addTask}) {
     };
 
     const InputSubmit = (event) => {
-        event.preventDefault();
-        addTask(tasks)
-        // const id = tasks.length + 1;
-        // // setTasks((prev) => [
-        // //   ...prev,
-        // //   {
-        // //     id: id,
-        // //     task: tasks,
-        // //     complete: false,
-        // //   },
-        // // ]);
-        console.log (tasks)
-        setTasks("")
-
+        if (tasks.length > 0) {
+            event.preventDefault();
+            addTask(tasks)
+            console.log(tasks)
+            setTasks("")
+        } else
+            alert("Introduce a task!")
     };
 
-    const InputKeypress = (event) => {
-        if (event.keyCode === 13) {
-            InputSubmit();
-        }
-    };
 
     return (
         <form onSubmit={InputSubmit}>
             <input
                 value={tasks}
                 onChange={InputChange}
-                onKeyPress={InputKeypress}
                 type="text"
                 id="app-input"
                 className="app-input"

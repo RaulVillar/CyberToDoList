@@ -1,29 +1,20 @@
 import Input from './Input';
 import Tasks from './Tasks';
-import { useState } from 'react';
-
-export default function TaskList() {
-
-    const [taskList, setTaskList] = useState([]);
 
 
-    const addTask = (item) => {
-        item.id = 
-        setTaskList([...taskList, item]);
-    };
-    console.log(taskList)
+export default function TaskList({ addTask, taskList, deleteTask, completeTask }) {
 
     return (
         <div>
             <Input addTask={addTask} />
             <div className='app-task-container'>
                 <h2 className='app-task-container-title' id="app-task-container-title">List of tasks</h2>
-                <Tasks taskList={taskList} />
+                <Tasks addTask={addTask} taskList={taskList} deleteTask={deleteTask} completeTask={completeTask}/>
             </div>
         </div>
     );
 }
 
 
-
+// markTask={markTask} 
 
