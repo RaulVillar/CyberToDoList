@@ -7,10 +7,13 @@
     padding: 0;
     margin: 0;
     font-family: "Cyberpunk";
-    background-color: rgba(38, 37, 37, 1);
     padding: 0;
     margin: 0;
     color: rgba(255, 255, 255, 1);
+}
+
+body {
+    background-color: rgba(38, 37, 37, 1);
 }
 
 .app-header {
@@ -24,25 +27,67 @@
     color: red;
 }
 
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5vh;
+}
+
 .app-input {
-    text-align: center;
+    width: calc(80% - 30px);
+    border: 2px solid #000;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    border-bottom: 2px solid #000;
+    padding: 12px;
     background-color: rgba(97, 0, 157, 1);
+    text-align: center;
     color: black;
 }
 
-form {
-    margin-top: 5vh;
-    text-align: center;
+.input-button {
+    color: black;
+    border: none;
+    border-radius: 0%;
+    font-size: 1rem;
+    margin-top: 10px;
+    background-color: 
+}
+
+.input-button:hover {
+    background-color: red;
+}
+
+.each-task-container {
+    background-color: rgba(217, 217, 217, 1);
+    padding-top: 1.5vh;
+    padding-bottom: 1.5vh;
+    width: 70vw;
+}
+
+.tasks-container {
+    display: inline-block;
+
+}
+
+.label-container {
+    width: 55vw;
 }
 
 .tasks-label {
     margin-right: 15vw;
+    color: black;
+    font-size: 1.7185821697099892vh;
+}
+
+.btn-group {
+    width: 20vw;
 }
 
 .btn {
     height: 2vh;
     padding-left: 1vh;
-    margin-left: 2vh;
 }
 
 li {
@@ -53,18 +98,19 @@ li {
 }
 
 .app-task-container {
-    /* background-color: rgba(160, 158, 158, 1); */
+    background-color: rgba(160, 158, 158, 1);
     text-align: center;
     margin-top: 5vh;
     margin-left: 4vh;
     margin-right: 4vh;
-    height: 50vh;
+    padding-bottom: 8vh;
+    height: auto;
 
 }
 
 .app-task-container-title {
-    font-size: 1.7185821697099892vh;
-    color: white;
+    font-size: 1.8185821697099892vh;
+    color: rgba(70, 0, 95, 1);
     letter-spacing: 0.2vh;
+    padding-top: 1.5vh;
 }
-

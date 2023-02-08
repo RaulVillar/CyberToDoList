@@ -16,13 +16,12 @@ function App() {
     setTaskList([...taskList, newTask]);
 
   };
-  console.log(taskList)
 
   const completeTask = index => {
     const newTasks = [...taskList];
     newTasks[index].completed = true;
     setTaskList(newTasks);
-};
+  };
 
   const deleteTask = (index) => {
 
