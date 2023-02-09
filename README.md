@@ -32,7 +32,7 @@ Para la realización de este proyecto he seguido los siguientes requisitos:
 	A nivel visual:
 		- Elección libre.
 
-![To Do List MockUp (1)](https://user-images.githubusercontent.com/119669918/217532652-76bfb55a-a4c4-47ad-8b4e-5d334ba54e24.jpg)
+![To Do List MockUp (2)](https://user-images.githubusercontent.com/119669918/217762263-23cfe27e-f4f4-43ad-8aec-25e5739fe688.jpg)
 ![Scheme Parent to Son (1)](https://user-images.githubusercontent.com/119669918/217511486-8be5160a-c4c8-4a1c-83bc-d67b146a238f.jpg)
 
 La maqueta inicial (observar imagen superior), que ha sido realizada mediante el uso de FIGMA, sigue un estilo basado en CyberPunk 2077 -que ha tenido una fuerte influencia en mis gustos artísticos-. La otra imagen, situada a la derecha, detalla mi planteamiento inicial del sistema de componentes que define mi proyecto.
