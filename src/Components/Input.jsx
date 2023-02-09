@@ -13,13 +13,15 @@ export default function Input({ addTask }) {
             event.preventDefault();
             addTask(tasks)
             setTasks("")
-        } else
-            alert("Introduce a task!")
+        }
     };
 
     return (
         <form className="form-container" onSubmit={InputSubmit}>
             <input
+                required 
+                onInvalid={F => F.target.setCustomValidity('Text is required')} 
+                onInput={F => F.target.setCustomValidity('')} 
                 value={tasks}
                 onChange={InputChange}
                 type="text"

@@ -53,10 +53,6 @@ body {
     border-radius: 30px;
 }
 
-.input-button:hover {
-    background-color: red;
-}
-
 .each-task-container {
     background-color: rgba(217, 217, 217, 1);
     padding-top: 1.5vh;
