@@ -18,7 +18,7 @@ export default function Input({ addTask }) {
     };
 
     return (
-        <form className= "form-container" onSubmit={InputSubmit}>
+        <form className="form-container" onSubmit={InputSubmit}>
             <input
                 value={tasks}
                 onChange={InputChange}
