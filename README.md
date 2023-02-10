@@ -5,6 +5,7 @@
 *To Do List - Cyberpunk Style!* is an individual project developed using ReactJS, HTML and CSS, following the pre-established criteria of the FactoriaF5's bootcamp. It is an application which allows us -users- to add and modify tasks in a simple list. 
 
 Deployment: https://cybertodolist.netlify.app
+
 Importante: el diseño es nativo para dispositivos móviles. 
 
 Para la realización de este proyecto he seguido los siguientes requisitos:
