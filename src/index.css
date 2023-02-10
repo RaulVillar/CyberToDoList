@@ -51,6 +51,7 @@ body {
     margin-top: 2vh;
     padding: 0.7vh;
     border-radius: 30px;
+    cursor: pointer;
 }
 
 .each-task-container {
@@ -88,6 +89,7 @@ body {
 .btn {
     height: 2vh;
     padding-left: 1vh;
+    cursor: pointer;
 }
 
 li {
